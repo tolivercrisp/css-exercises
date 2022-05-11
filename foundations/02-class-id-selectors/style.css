@@ -1,0 +1,20 @@
+.paragraph {
+    background-color:#ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paragraph.cooler {
+    font-size: 24px;
+}
+
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;  
+}
